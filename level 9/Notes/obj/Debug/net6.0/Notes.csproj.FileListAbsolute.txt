@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\bin\Debug\net6.0\Notes.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\bin\Debug\net6.0\Notes.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\bin\Debug\net6.0\Notes.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\bin\Debug\net6.0\Notes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\bin\Debug\net6.0\Notes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\refint\Notes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\Notes.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 9\Notes\obj\Debug\net6.0\ref\Notes.dll

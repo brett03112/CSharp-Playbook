@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\bin\Debug\net7.0\TestApp.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\bin\Debug\net7.0\TestApp.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\bin\Debug\net7.0\TestApp.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\bin\Debug\net7.0\TestApp.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\TestApp\obj\Debug\net7.0\ref\TestApp.dll

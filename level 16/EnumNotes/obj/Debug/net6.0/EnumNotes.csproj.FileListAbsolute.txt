@@ -1,0 +1,14 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\bin\Debug\net6.0\EnumNotes.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\bin\Debug\net6.0\EnumNotes.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\bin\Debug\net6.0\EnumNotes.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\bin\Debug\net6.0\EnumNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\bin\Debug\net6.0\EnumNotes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\refint\EnumNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\EnumNotes.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 16\EnumNotes\obj\Debug\net6.0\ref\EnumNotes.dll

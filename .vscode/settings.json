@@ -1,0 +1,5 @@
+{
+    "explorer.openEditors.minVisible": 8,
+    "workbench.editor.showTabs": true,
+    "dotnet.defaultSolution": "disable"
+}

@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\bin\Debug\net6.0\TypeSystem.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\bin\Debug\net6.0\TypeSystem.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\bin\Debug\net6.0\TypeSystem.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\bin\Debug\net6.0\TypeSystem.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\bin\Debug\net6.0\TypeSystem.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\refint\TypeSystem.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\TypeSystem.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 6\TypeSystem\obj\Debug\net6.0\ref\TypeSystem.dll

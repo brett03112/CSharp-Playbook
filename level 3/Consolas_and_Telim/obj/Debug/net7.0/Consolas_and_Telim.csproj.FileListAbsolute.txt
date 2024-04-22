@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\bin\Debug\net7.0\Consolas_and_Telim.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\bin\Debug\net7.0\Consolas_and_Telim.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\bin\Debug\net7.0\Consolas_and_Telim.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\bin\Debug\net7.0\Consolas_and_Telim.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\bin\Debug\net7.0\Consolas_and_Telim.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\refint\Consolas_and_Telim.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\Consolas_and_Telim.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 3\Consolas_and_Telim\obj\Debug\net7.0\ref\Consolas_and_Telim.dll

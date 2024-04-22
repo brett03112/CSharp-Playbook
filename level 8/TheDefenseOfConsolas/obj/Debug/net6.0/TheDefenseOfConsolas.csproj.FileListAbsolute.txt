@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\refint\TheDefenseOfConsolas.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 8\TheDefenseOfConsolas\obj\Debug\net6.0\ref\TheDefenseOfConsolas.dll

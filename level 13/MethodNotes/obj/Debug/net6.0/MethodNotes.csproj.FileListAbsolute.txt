@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\bin\Debug\net6.0\MethodNotes.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\bin\Debug\net6.0\MethodNotes.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\bin\Debug\net6.0\MethodNotes.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\bin\Debug\net6.0\MethodNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\bin\Debug\net6.0\MethodNotes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\refint\MethodNotes.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\MethodNotes.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 13\MethodNotes\obj\Debug\net6.0\ref\MethodNotes.dll

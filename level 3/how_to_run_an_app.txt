@@ -1,0 +1,10 @@
+This shows how to start, build, and run a c# program from the command line.
+
+dotnet new -n console TestApp
+    //this creates a new app called TestApp that is a console app
+
+dotnet build TestApp
+    //this builds the app and its associated files
+
+dotnet run --project TestApp
+    //this runs the app

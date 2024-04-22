@@ -1,0 +1,15 @@
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\bin\Debug\net6.0\DominionOfKings.exe
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\bin\Debug\net6.0\DominionOfKings.deps.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\bin\Debug\net6.0\DominionOfKings.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\bin\Debug\net6.0\DominionOfKings.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\bin\Debug\net6.0\DominionOfKings.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.csproj.AssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\refint\DominionOfKings.dll
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.pdb
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\DominionOfKings.genruntimeconfig.cache
+C:\Users\brett\OneDrive\Documents\cSharp\c# handbook\level 7\DominionOfKings\obj\Debug\net6.0\ref\DominionOfKings.dll
