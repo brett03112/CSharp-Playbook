@@ -20,7 +20,7 @@ int shaftLength = Convert.ToInt32(ReadLine());
 Arrow arrow = new Arrow(arrowHead, fletching, shaftLength);
 decimal cost = arrow.CalculateCost(arrowHead, fletching, shaftLength);
 
-WriteLine($"You chose {arrowHead}, {fletching}, and {shaftLength}cm. The cost is {cost:C} gold."); // Use :C to format the cost
+WriteLine($"You chose {arrowHead}, {fletching}, and {shaftLength} cm. The cost is {cost:C} gold."); // Use :C to format the cost
 
 
 
