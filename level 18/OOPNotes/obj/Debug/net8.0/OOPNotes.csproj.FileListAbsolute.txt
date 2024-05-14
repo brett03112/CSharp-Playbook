@@ -1,0 +1,14 @@
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\bin\Debug\net8.0\OOPNotes.exe
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\bin\Debug\net8.0\OOPNotes.deps.json
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\bin\Debug\net8.0\OOPNotes.runtimeconfig.json
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\bin\Debug\net8.0\OOPNotes.dll
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\bin\Debug\net8.0\OOPNotes.pdb
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.AssemblyInfoInputs.cache
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.AssemblyInfo.cs
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.csproj.CoreCompileInputs.cache
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.dll
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\refint\OOPNotes.dll
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.pdb
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\OOPNotes.genruntimeconfig.cache
+c:\Users\brett\Documents\cSharp\c# handbook\level 18\OOPNotes\obj\Debug\net8.0\ref\OOPNotes.dll

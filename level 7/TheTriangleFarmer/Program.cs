@@ -10,12 +10,11 @@ namespace TheTriangleFarmer
         {
 			// Use 'csharprepl' from the cli to test
             Console.WriteLine("What is the height of your triangle?");
-            string sHeight = Console.ReadLine();
-            Console.WriteLine("What is the size of the base of your triangle?");
-            string sBase = Console.ReadLine();
+            double height = Convert.ToDouble(Console.ReadLine());
 
-            double height = Convert.ToDouble(sHeight);
-            double baseLength = Convert.ToDouble(sBase);
+            Console.WriteLine("What is the size of the base of your triangle?");
+            double baseLength = Convert.ToDouble(Console.ReadLine());
+
             double area = .5 * height * baseLength;
 
             Console.WriteLine("The area of your triange is " +  area);

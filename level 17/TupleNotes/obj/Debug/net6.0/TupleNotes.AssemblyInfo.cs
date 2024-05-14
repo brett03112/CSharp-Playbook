@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TupleNotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf617e020f9fe9415c62aa41c72a1ac7fa002915")]
 [assembly: System.Reflection.AssemblyProductAttribute("TupleNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TupleNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

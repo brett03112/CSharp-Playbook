@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brett\\OneDrive\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj": {}
+    "C:\\Users\\brett\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brett\\OneDrive\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj": {
+    "C:\\Users\\brett\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\OneDrive\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj",
         "projectName": "Notes",
-        "projectPath": "C:\\Users\\brett\\OneDrive\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj",
+        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\Notes.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\OneDrive\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\obj\\",
+        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\c# handbook\\level 8\\Notes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

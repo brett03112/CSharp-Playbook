@@ -24,8 +24,11 @@
 
             int myFavoriteNumber = 9;
             Console.WriteLine($"My favorite number is {myFavoriteNumber}."); //string interpolation
-
+            
+            Console.WriteLine("Enter a name:  ");
             string name1 = Console.ReadLine();
+
+            Console.WriteLine("Enter another name:  ");
             string name2 = Console.ReadLine();
 
             //adding spaces for pretty printing before the word
@@ -33,8 +36,8 @@
             Console.WriteLine($"#2: {name2,20}");
 
             //white spaces after the word
-            Console.WriteLine($"{name1,-20} - 1");
-            Console.WriteLine($"{name2,-20} - 2");
+            Console.WriteLine($"{name1,-20}  #1");
+            Console.WriteLine($"{name2,-20}  #2");
 
             //gives Pi 3 digits after the decimal
             Console.WriteLine($"{Math.PI:0.000}");
