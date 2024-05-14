@@ -1,0 +1,15 @@
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\bin\Debug\net8.0\VinsTrouble.exe
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\bin\Debug\net8.0\VinsTrouble.deps.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\bin\Debug\net8.0\VinsTrouble.runtimeconfig.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\bin\Debug\net8.0\VinsTrouble.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\bin\Debug\net8.0\VinsTrouble.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.AssemblyInfo.cs
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.sourcelink.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\refint\VinsTrouble.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\VinsTrouble.genruntimeconfig.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 19\VinsTrouble\obj\Debug\net8.0\ref\VinsTrouble.dll
