@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinsTrouble")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6ebc4dcdff3f056fe967b5867f5bf7e203c35d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("VinsTrouble")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinsTrouble")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
