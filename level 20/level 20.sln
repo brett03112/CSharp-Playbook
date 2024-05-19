@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{2E4AF44D-6C89-41FB-809F-B6FF7DAB2FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesOfArrows", "PropertiesOfArrows\PropertiesOfArrows.csproj", "{7149FE8F-6D09-40A9-B3C0-DC4986651D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +14,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4AF44D-6C89-41FB-809F-B6FF7DAB2FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4AF44D-6C89-41FB-809F-B6FF7DAB2FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4AF44D-6C89-41FB-809F-B6FF7DAB2FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4AF44D-6C89-41FB-809F-B6FF7DAB2FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7149FE8F-6D09-40A9-B3C0-DC4986651D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7149FE8F-6D09-40A9-B3C0-DC4986651D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7149FE8F-6D09-40A9-B3C0-DC4986651D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7149FE8F-6D09-40A9-B3C0-DC4986651D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

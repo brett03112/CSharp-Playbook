@@ -1,8 +1,8 @@
 ﻿/*
- * @author: Brett Smith
- * Date: 5/14/2024
- * Update the arrow class to hide access modifiers
- */
+    Modify the Arrow program so that the Arrow class uses properties instead of GetX and SetX methods
+
+*/
+
 
 WriteLine("Each arrow has 3 parts: the arrowhead (steel, wood, or obsidian), the shaft (a length between 60 and 100 cm long), " +
             "and the fletching (plastic, turkey feathers, goose feathers).");
@@ -22,6 +22,10 @@ decimal cost = arrow.CalculateCost(arrowHead, fletching, shaftLength);
 
 WriteLine($"You chose {arrowHead}, {fletching}, and {shaftLength} cm. The cost is {cost:C} gold."); // Use :C to format the cost
 
+//show the default values of the Arrow class
+Arrow arrow1 = new Arrow();
+WriteLine($"The default values of the Arrow class are: {arrow1.arrowHead}, {arrow1.fletching}, and {arrow1.shaftLength} cm.");
+
 
 
 
@@ -31,11 +35,18 @@ WriteLine($"You chose {arrowHead}, {fletching}, and {shaftLength} cm. The cost i
 class Arrow
 {
     // make fields private
-    private string _arrowHead;
-    private string _fletching;
+    private string? _arrowHead;
+    private string? _fletching;
     private int _shaftLength;
 
-    // Keep the contructor public and set the fields with the parameters
+    public string? arrowHead{get; set;} = "Wood"; // default value
+    public string? fletching{get; set;} = "Plastic"; // default value
+    public int shaftLength{get; set;} = 45; // default value 
+
+    // default constructor
+    public Arrow(){ }
+
+    // Constructor with entered parameters
     public Arrow(string arrowHead, string fletching, int shaftLength)
     {
         _arrowHead = arrowHead;
@@ -45,10 +56,7 @@ class Arrow
     enum ArrowHeadType{Steel, Wood, Obsidian}
     enum FletchingType{Plastic, TurkeyFeathers, GooseFeathers}
 
-    // get methods
-    public string GetArrowHead() => _arrowHead;
-    public string GetFletching() => _fletching;
-    public int GetShaftLength() => _shaftLength;
+   
 
     // the only class method available
     public decimal CalculateCost(string arrowHead, string fletching, int shaftLength)
@@ -87,9 +95,4 @@ class Arrow
         cost += shaftLength * .05m;
         return cost;
     }
-
-    // set methods
-    public void SetArrowHead(string value) => _arrowHead = value;
-    public void SetFletching(string value) => _fletching = value;
-    public void SetShaftLength(int value) => _shaftLength = value;
 }

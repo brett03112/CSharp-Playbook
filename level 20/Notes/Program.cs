@@ -9,27 +9,23 @@ Rectangle r = new Rectangle(2,3);
 r.Width = 5;
 WriteLine($"A {r.Width} by {r.Height} rectangle has an area of {r.Area}");
 
+Rectangle r2 = new Rectangle();
+WriteLine($"A {r2.Width} by {r2.Height} rectangle has an area of {r2.Area}");
+
 
 public class Rectangle
 {
-    private float _width;
-    private float _height;
-    public Rectangle(float width, float height)
+    private float width;
+    private float height;
+    public float Width { get; set; } = 5; // property set and get with a default value
+    public float Height { get; set; } = 5;// property set and get with a default value
+    public float Area => Width * Height;
+    
+    public Rectangle() { } // default constructor with no parameters
+    public Rectangle(float width, float height)// constructor with parameters
     {
-        _width = width;
-        _height = height;
+        Width = width;
+        Height = height;
     }
-    // Properties
-    public float Width
-    {
-        get => _width;
-        set => _width = value;
-    }
-    //Properties    
-    public float Height
-    {
-        get => _height;
-        set => _height = value;
-    }
-    public float Area => _width * _height;
+    
 }
