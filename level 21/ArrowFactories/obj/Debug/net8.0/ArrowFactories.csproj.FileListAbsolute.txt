@@ -1,0 +1,15 @@
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\bin\Debug\net8.0\ArrowFactories.exe
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\bin\Debug\net8.0\ArrowFactories.deps.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\bin\Debug\net8.0\ArrowFactories.runtimeconfig.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\bin\Debug\net8.0\ArrowFactories.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\bin\Debug\net8.0\ArrowFactories.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.AssemblyInfo.cs
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.sourcelink.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\refint\ArrowFactories.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ArrowFactories.genruntimeconfig.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 21\ArrowFactories\obj\Debug\net8.0\ref\ArrowFactories.dll

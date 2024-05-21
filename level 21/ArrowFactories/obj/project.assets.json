@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 20\\Notes\\Notes.csproj",
-      "projectName": "Notes",
-      "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 20\\Notes\\Notes.csproj",
+      "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 21\\ArrowFactories\\ArrowFactories.csproj",
+      "projectName": "ArrowFactories",
+      "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 21\\ArrowFactories\\ArrowFactories.csproj",
       "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 20\\Notes\\obj\\",
+      "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 21\\ArrowFactories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
