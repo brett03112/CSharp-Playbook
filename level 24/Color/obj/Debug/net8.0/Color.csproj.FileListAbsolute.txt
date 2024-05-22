@@ -1,0 +1,15 @@
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\bin\Debug\net8.0\Color.deps.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\bin\Debug\net8.0\Color.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\bin\Debug\net8.0\Color.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.AssemblyInfo.cs
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.sourcelink.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\refint\Color.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\ref\Color.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\bin\Debug\net8.0\Color.exe
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\bin\Debug\net8.0\Color.runtimeconfig.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\Color\obj\Debug\net8.0\Color.genruntimeconfig.cache
