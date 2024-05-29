@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point", "Point\Point.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Door", "Door\Door.csproj", "{4E5744C7-B9C5-4A6D-A3A0-A8A9489FA404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{798A8A00-FDC4-4F1B-8501-B2C0CA3CD010}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,9 +42,5 @@ Global
 		{4E5744C7-B9C5-4A6D-A3A0-A8A9489FA404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E5744C7-B9C5-4A6D-A3A0-A8A9489FA404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E5744C7-B9C5-4A6D-A3A0-A8A9489FA404}.Release|Any CPU.Build.0 = Release|Any CPU
-		{798A8A00-FDC4-4F1B-8501-B2C0CA3CD010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{798A8A00-FDC4-4F1B-8501-B2C0CA3CD010}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{798A8A00-FDC4-4F1B-8501-B2C0CA3CD010}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{798A8A00-FDC4-4F1B-8501-B2C0CA3CD010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

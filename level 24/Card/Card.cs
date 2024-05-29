@@ -1,4 +1,4 @@
-﻿namespace Level24;
+﻿
 
 public class Card
 {
