@@ -11,7 +11,7 @@ Arrow arrow = choice switch
     "1" => Arrow.CreateEliteArrow(),
     "2" => Arrow.CreateBeginnerArrow(),
     "3" => Arrow.CreateMarksmanArrow(),
-    _ => CreateCustomArrow(),
+     _  => CreateCustomArrow(),
 };
 
 Console.WriteLine($"That arrow costs {arrow.Cost} gold.");
