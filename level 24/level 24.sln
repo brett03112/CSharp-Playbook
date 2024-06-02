@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card", "Card\Card.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color", "Color\Color.csproj", "{A7EB93D5-9505-48EF-A47B-7B6E405F9143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseClasses", "UseClasses\UseClasses.csproj", "{1535A7B7-E5B9-439C-BB7C-1B13DC5F39BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A7EB93D5-9505-48EF-A47B-7B6E405F9143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EB93D5-9505-48EF-A47B-7B6E405F9143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EB93D5-9505-48EF-A47B-7B6E405F9143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1535A7B7-E5B9-439C-BB7C-1B13DC5F39BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1535A7B7-E5B9-439C-BB7C-1B13DC5F39BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1535A7B7-E5B9-439C-BB7C-1B13DC5F39BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1535A7B7-E5B9-439C-BB7C-1B13DC5F39BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

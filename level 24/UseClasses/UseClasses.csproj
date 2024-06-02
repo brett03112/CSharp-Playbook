@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Card\Card.csproj" />
+    <ProjectReference Include="..\Color\Color.csproj" />
+    <ProjectReference Include="..\LockedDoor\LockedDoor.csproj" />
+    <ProjectReference Include="..\PasswordValidator\PasswordValidator.csproj" />
+    <ProjectReference Include="..\Point\Point.csproj" />
+  </ItemGroup>
+  
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Using Include="System.Console" Static="true" />
+  </ItemGroup>
+</Project>
