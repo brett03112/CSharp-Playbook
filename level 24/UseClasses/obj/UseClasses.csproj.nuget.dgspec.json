@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj": {}
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\Card.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\Card.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\Card.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\Card.csproj",
         "projectName": "Card",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\Card.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\Card.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
         "projectName": "Color",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj",
         "projectName": "LockedDoor",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj",
         "projectName": "PasswordValidator",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\Point.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\Point.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\Point.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\Point.csproj",
         "projectName": "Point",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\Point.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\Point.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -329,14 +329,14 @@
         }
       }
     },
-    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj": {
+    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj",
         "projectName": "UseClasses",
-        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj",
+        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\UseClasses\\UseClasses.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\UseClasses\\obj\\",
+        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\UseClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -358,20 +358,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\Card.csproj": {
-                "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Card\\Card.csproj"
+              "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\Card.csproj": {
+                "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Card\\Card.csproj"
               },
-              "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
-                "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj"
+              "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
+                "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj"
               },
-              "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj": {
-                "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj"
+              "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj": {
+                "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\LockedDoor\\LockedDoor.csproj"
               },
-              "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj": {
-                "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj"
+              "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj": {
+                "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\PasswordValidator\\PasswordValidator.csproj"
               },
-              "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\Point.csproj": {
-                "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Point\\Point.csproj"
+              "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\Point.csproj": {
+                "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Point\\Point.csproj"
               }
             }
           }
