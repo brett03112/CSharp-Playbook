@@ -1,0 +1,15 @@
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 24\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll

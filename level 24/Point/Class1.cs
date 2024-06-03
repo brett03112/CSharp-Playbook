@@ -17,7 +17,7 @@ public class Point
     public float X { get; } = 0;
     public float Y { get; } = 0;
 
-    public Point(float x, float y)
+    public Point(float x, float y) //
     {
       X = x;
       Y = y;
