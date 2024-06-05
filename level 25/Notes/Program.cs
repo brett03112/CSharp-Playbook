@@ -15,15 +15,16 @@ public class GameObject
         /// Initializes a new instance of the <see cref="GameObject"/> class.
         /// Sets the initial position and velocity of the game object.
     /// </summary>
-    public GameObject()
+    public GameObject(float positionX, float positionY, float velocityX, float velocityY)
     {
-        PositionX = 2;
-        PositionY = 3;
-        VelocityX = 1;
-        VelocityY = 1;
+        PositionX = positionX;
+        PositionY = positionY;
+        VelocityX = velocityX;
+        VelocityY = velocityY;
+        
     }
 
-    public void Update()
+    public virtual void Update()
     {
         PositionX += VelocityX;
         PositionY += VelocityY;
@@ -39,7 +40,7 @@ public class Asteroid : GameObject
         /// Initializes a new instance of the <see cref="Asteroid"/> class.
         /// Sets the size, rotation angle, velocity, and position of the asteroid.
     /// </summary>
-    public Asteroid()
+    public Asteroid(float positionX, float positionY) : base(positionX, positionY, 1, 1)
     {
         Size = 10;
         RotationAngle = -1;
