@@ -14,16 +14,20 @@ WriteLine(" 4 | 5 | 6 "); // [2,1] [2,5] [2,9]
 WriteLine("___|___|___");
 WriteLine(" 7 | 8 | 9 "); // [4,1] [4,5] [4,9]
 WriteLine("   |   |   ");
-WriteLine();
 
+// get player names
 WriteLine("Enter a name for player 1: ");
 string? player1 = ReadLine()!;
 WriteLine("Enter a name for player 2: ");
 string? player2 = ReadLine()!;
 
+// create board
 char[,] board = TicTacToe.CreateBoard();
+
+// create the game
 TicTacToe game = new TicTacToe(player1, player2, board);
 
+// play the game
 TicTacToe.PlayGame(player1, player2, board);
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {}
+    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
+    "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
         "projectName": "Color",
-        "projectPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
+        "projectPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\Color.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\documents\\csharp\\csharp_playbook\\level 24\\Color\\obj\\",
+        "outputPath": "C:\\Users\\brett\\Documents\\cSharp\\csharp_playbook\\level 24\\Color\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
