@@ -2,7 +2,7 @@
     Polymorphism
 
 */
-
+WriteLine("Hello World!");
 public class ChessPiece
 {
     public int Row { get; set; }
