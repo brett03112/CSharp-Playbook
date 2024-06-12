@@ -1,0 +1,15 @@
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\bin\Debug\net8.0\WarPreparations.exe
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\bin\Debug\net8.0\WarPreparations.deps.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\bin\Debug\net8.0\WarPreparations.runtimeconfig.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\bin\Debug\net8.0\WarPreparations.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\bin\Debug\net8.0\WarPreparations.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfo.cs
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.sourcelink.json
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\refint\WarPreparations.dll
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.pdb
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\WarPreparations.genruntimeconfig.cache
+C:\Users\brett\Documents\cSharp\csharp_playbook\level 29\WarPreparations\obj\Debug\net8.0\ref\WarPreparations.dll
