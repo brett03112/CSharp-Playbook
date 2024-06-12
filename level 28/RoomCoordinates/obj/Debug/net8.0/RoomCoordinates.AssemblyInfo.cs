@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomCoordinates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef0a0a73f0de6bd46e4ab35890096fd6057d9cdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71af5dad8e4097e4ffe4a8bca9aa899b9e17f65d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoomCoordinates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoomCoordinates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
