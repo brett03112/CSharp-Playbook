@@ -45,7 +45,7 @@ Fletching GetFletchingType()
 {
     Console.Write("Fletching type (plastic, turkey feather, goose feather): ");
     string? input = Console.ReadLine();
-#pragma warning disable CS8509 // The switch expression does not handle all possible values of its input type (it is not exhaustive).
+    #pragma warning disable CS8509 // The switch expression does not handle all possible values of its input type (it is not exhaustive).
     return input switch
     {
         "plastic" => Fletching.Plastic,
@@ -67,7 +67,10 @@ float GetLength()
 
     return length;
 }
-
+/// <summary>
+/// A class representing an arrow
+/// It has an arrowhead, fletching, and length
+/// </summary>
 public class Arrow
 {
     public Arrowhead Arrowhead { get; }
@@ -80,39 +83,57 @@ public class Arrow
         Fletching = fletching;
         Length = length;
     }
-
+    /// <summary>
+    /// The cost of the arrow
+    /// </summary>
     public float Cost
     {
         get
         {
-#pragma warning disable CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
+            #pragma warning disable CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
             float arrowheadCost = Arrowhead switch
             {
                 Arrowhead.Steel => 10,
                 Arrowhead.Wood => 3,
                 Arrowhead.Obsidian => 5
             };
-#pragma warning restore CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
+            #pragma warning restore CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
 
-#pragma warning disable CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
+            #pragma warning disable CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
             float fletchingCost = Fletching switch
             {
                 Fletching.Plastic => 10,
                 Fletching.TurkeyFeathers => 5,
                 Fletching.GooseFeathers => 3
             };
-#pragma warning restore CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
+            #pragma warning restore CS8524 // The switch expression does not handle some values of its input type (it is not exhaustive) involving an unnamed enum value.
 
             float shaftCost = 0.05f * Length;
 
             return arrowheadCost + fletchingCost + shaftCost;
         }
     }
-
+    /// <summary>
+    /// Creates an elite arrow
+    /// </summary>
+    /// <returns></returns>
     public static Arrow CreateEliteArrow() => new Arrow(Arrowhead.Steel, Fletching.Plastic, 95);
+    /// <summary>
+    /// Creates a beginner arrow
+    /// </summary>
+    /// <returns></returns>
     public static Arrow CreateBeginnerArrow() => new Arrow(Arrowhead.Wood, Fletching.GooseFeathers, 75);
+    /// <summary>
+    /// Creates a marksman arrow
+    /// </summary>
+    /// <returns></returns>
     public static Arrow CreateMarksmanArrow() => new Arrow(Arrowhead.Steel, Fletching.GooseFeathers, 65);
 }
-
+/// <summary>
+/// The different types of arrows
+/// They have an arrowhead, fletching, and length
+/// ArrowHead is an enum that has Steel, Wood, and Obsidian
+/// Fletching is an enum that has Plastic, TurkeyFeathers, and GooseFeathers
+/// </summary>
 public enum Arrowhead { Steel, Wood, Obsidian }
 public enum Fletching { Plastic, TurkeyFeathers, GooseFeathers }

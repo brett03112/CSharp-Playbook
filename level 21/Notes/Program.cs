@@ -3,7 +3,9 @@
     https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-methods
 
 */
-
+/// <summary>
+/// A class representing a score
+/// </summary>
 public class Score
 {
     public static readonly int PointThreshold;
@@ -20,6 +22,7 @@ public class Score{
     public static int LevelThreshold {get; } = 4;
 }
 //static methods can be called without creating an instance of the class
+
 public static int CountForPlayer(string playerName, Score[] scores)
 {
     int count = 0;
