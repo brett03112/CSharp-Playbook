@@ -12,13 +12,20 @@ WriteLine($"A {r.Width} by {r.Height} rectangle has an area of {r.Area}");
 Rectangle r2 = new Rectangle();
 WriteLine($"A {r2.Width} by {r2.Height} rectangle has an area of {r2.Area}");
 
-
+/// <summary>
+///    A class that represents a rectangle
+/// </summary>
+/// <remarks>
+///    A rectangle has a width and height. 
 public class Rectangle
 {
     private float width;
     private float height;
     public float Width { get; set; } = 5; // property set and get with a default value
     public float Height { get; set; } = 5;// property set and get with a default value
+    /// <summary>
+    /// Method for calculating the area
+    /// </summary>
     public float Area => Width * Height;
     
     public Rectangle() { } // default constructor with no parameters

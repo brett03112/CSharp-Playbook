@@ -30,7 +30,10 @@ WriteLine($"The default values of the Arrow class are: {arrow1.arrowHead}, {arro
 
 
 
-
+/// <summary>
+///    A class that represents an arrow
+///    It has 3 parts: the arrowhead, the shaft, and the fletching
+/// </summary>
 
 class Arrow
 {
@@ -58,7 +61,13 @@ class Arrow
 
    
 
-    // the only class method available
+    /// <summary>
+    ///    Calculates the cost of the arrow
+    /// </summary>
+    /// <param name="arrowHead"></param>
+    /// <param name="fletching"></param>
+    /// <param name="shaftLength"></param>
+    /// <returns>decimal cost</returns>
     public decimal CalculateCost(string arrowHead, string fletching, int shaftLength)
     {
         decimal cost = 0;
